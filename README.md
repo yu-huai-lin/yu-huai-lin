@@ -14,7 +14,7 @@
 
 ### 🌟 Other things I'm passionate about:
    - I (used to) play basketball 🏀
-   - Mucis, play guitar and ukelele 🎸
+   - Music, play guitar and ukelele 🎸
 
 ### 📮 How to reach me:
 
