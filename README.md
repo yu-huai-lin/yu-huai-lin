@@ -8,13 +8,11 @@
    - I speak English, German and Mandarin
 
 ### 📈 I'm passionate about Data science
-   - I have 3 years experience in Marketing Analytics and predictive analytics, and various product A/B testing and statistical testing
-   - I specialize in building visualisation models on Looker using LookML
-
+   - I have 3 years experience in wrangling big data, applying advanced analytical and statistical methods to impact growth and profitability across product and marketing automations
 
 ### 🌟 Other things I'm passionate about:
-   - I (used to) play basketball 🏀
-   - Music, play guitar and ukelele 🎸
+   - Reading
+   - Playing guitar 🎸
 
 ### 📮 How to reach me:
 
