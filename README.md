@@ -8,7 +8,7 @@
    - I speak English, German and Mandarin
 
 ### 📈 I'm passionate about Data science
-   - I have 3 years experience in wrangling big data, applying advanced analytical and statistical methods to impact growth and profitability across product and marketing automations
+   - I have 3 years experience in wrangling big data, applying advanced analytical and statistical methods to impact growth and profitability across product and marketing domains
 
 ### 🌟 Other things I'm passionate about:
    - Reading
