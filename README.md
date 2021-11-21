@@ -4,7 +4,7 @@
    - Currently a Data Scientist at [trivago](https://github.com/trivago)
    - Based in Düsseldorf, Germany 🇩🇪. Previously in Birmingham, UK 
    - I code in Python, R, SQL
-   - I graduated from University of Exeter 🇬🇧 with a MSc in Marketing
+   - I graduated from University of Exeter 🇬🇧 
    - I speak English, German and Mandarin
 
 ### 📈 I'm passionate about Data science
